@@ -5,3 +5,12 @@ E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\adventure-game.c
 E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\wombat.exe
 E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\wombat.pdb
 E:\Huw\Programming\CSharp\AdventureGame\AdventureGame\obj\Debug\adventure-game.csprojResolveAssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\bin\Debug\wombat.exe.config
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\bin\Debug\wombat.exe
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\bin\Debug\wombat.pdb
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\obj\Debug\game.MainForm.resources
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\obj\Debug\adventure-game.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\obj\Debug\wombat.exe
+C:\Users\A47151139\3_C#_Udemy\10_Easy_Steps\CSharpProjects\AdventureGame\AdventureGame\obj\Debug\wombat.pdb
