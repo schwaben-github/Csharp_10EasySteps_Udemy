@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step09\Exceptions\Exceptions\obj\x86\Debug\Exceptions.pdb

@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\Tests\Tests\obj\x86\Debug\Tests.pdb

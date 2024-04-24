@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\bin\Debug\LogicalOperators.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\LogicalOperators\LogicalOperators\obj\Debug\LogicalOperators.pdb

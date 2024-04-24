@@ -1,0 +1,9 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\bin\Debug\Dir.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\bin\Debug\Dir.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\bin\Debug\Dir.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\obj\Debug\Dir.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\obj\Debug\Dir.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\obj\Debug\Dir.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\obj\Debug\Dir.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\obj\Debug\Dir.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\Dir\obj\Debug\Dir.pdb

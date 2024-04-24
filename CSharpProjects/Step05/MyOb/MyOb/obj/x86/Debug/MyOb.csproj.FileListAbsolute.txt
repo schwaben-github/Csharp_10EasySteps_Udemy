@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\bin\Debug\MyOb.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\bin\Debug\MyOb.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\bin\Debug\MyOb.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\MyOb\MyOb\obj\x86\Debug\MyOb.pdb

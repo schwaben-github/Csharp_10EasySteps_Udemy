@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\MethodTest\MethodTest\obj\x86\Debug\MethodTest.pdb

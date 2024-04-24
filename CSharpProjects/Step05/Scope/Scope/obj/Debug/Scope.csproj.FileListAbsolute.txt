@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\bin\Debug\Scope.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\bin\Debug\Scope.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\bin\Debug\Scope.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.A.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\Scope\Scope\obj\Debug\Scope.pdb

@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\bin\Debug\GameClasses.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\bin\Debug\GameClasses.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\bin\Debug\GameClasses.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step05\GameClasses\GameClasses\obj\x86\Debug\GameClasses.pdb

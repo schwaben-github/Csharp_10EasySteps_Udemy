@@ -1,0 +1,9 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\bin\Debug\streams.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\bin\Debug\streams.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\bin\Debug\streams.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\obj\Debug\streams.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\obj\Debug\streams.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\obj\Debug\streams.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\obj\Debug\streams.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\obj\Debug\streams.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step07\streams\streams\obj\Debug\streams.pdb

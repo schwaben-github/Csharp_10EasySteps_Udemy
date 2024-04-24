@@ -1,0 +1,7 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\bin\Debug\stringinterpolation.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\bin\Debug\stringinterpolation.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\bin\Debug\stringinterpolation.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\stringinterpolation\stringinterpolation\obj\Debug\stringinterpolation.pdb

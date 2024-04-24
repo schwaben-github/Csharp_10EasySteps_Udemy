@@ -1,0 +1,9 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\bin\Debug\test.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\bin\Debug\test.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\bin\Debug\test.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\obj\Debug\wordcount.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\obj\Debug\test.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\obj\Debug\wordcount.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\obj\Debug\wordcount.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\obj\Debug\test.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\wordcount\obj\Debug\test.pdb

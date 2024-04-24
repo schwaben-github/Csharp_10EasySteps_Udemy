@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step10\Generics\Generics\obj\x86\Debug\Generics.pdb

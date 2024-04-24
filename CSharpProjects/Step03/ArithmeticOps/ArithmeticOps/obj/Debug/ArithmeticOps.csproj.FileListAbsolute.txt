@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\bin\Debug\ArithmeticOps.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\bin\Debug\ArithmeticOps.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\bin\Debug\ArithmeticOps.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step03\ArithmeticOps\ArithmeticOps\obj\Debug\ArithmeticOps.pdb

@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step04\Methods\Methods\obj\x86\Debug\Methods.pdb

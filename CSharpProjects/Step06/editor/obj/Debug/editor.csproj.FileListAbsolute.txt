@@ -1,0 +1,9 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\bin\Debug\editor.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\bin\Debug\editor.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\bin\Debug\editor.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\obj\Debug\editor.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\obj\Debug\editor.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\obj\Debug\editor.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step06\editor\obj\Debug\editor.pdb

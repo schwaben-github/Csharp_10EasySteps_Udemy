@@ -1,0 +1,10 @@
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe.config
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\bin\Debug\TaxCalc.pdb
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.AssemblyReference.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.Form1.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.Properties.Resources.resources
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.GenerateResource.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.csproj.CoreCompileInputs.cache
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.exe
+C:\Users\A47151139\3_C#_Udemy\CSharpProjects\Step02\TaxCalc\TaxCalc\obj\x86\Debug\TaxCalc.pdb
